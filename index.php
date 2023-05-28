@@ -20,7 +20,7 @@
 			</div>	
 		</div>
 	</section>
-	<section id="galeri" class="gallery">
+	<!-- <section id="galeri" class="gallery">
 		<div class="container">
 			<div class="section-title">GALERİ <a href="https://www.instagram.com/hilmicancukur/" target="_blank" title="hilmicancukur" class="section-subtitle">@hilmicancukur</a></div>
 			<div class="gallery-area owl-gallery owl-carousel">
@@ -66,7 +66,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<section id="iletisim" class="contact">
 		<div class="container">
 			<div class="section-title">İLETİŞİM <a href="mailto:info@hilmican.com" class="section-subtitle">info@hilmican.com</a></div>
