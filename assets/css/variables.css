@@ -1,0 +1,8 @@
+:root {
+    --ff: "Inter", sans-serif;
+    --fs-default: 1rem;
+    --transition: all 150ms ease-in-out;
+    --c-dark: #2b2a29;
+    --c-yellow: #ffad1f;
+    --c-white: #fafafa;
+}

@@ -1,23 +1,13 @@
 <?php include 'includes/_header.php'; ?>
-<main>
-	<section class="intro intro-bg">
-		<div class="container">
-			<div class="intro-box">
-				<div class="row align-items-center">
-					<div class="col-md-6">
-						<div class="intro-box-content">
-							<h1>404</h1>
-							<p>Sayfa Bulunamadı!</p>
-						</div>
-					</div>
-					<div class="col-md-4 offset-md-2 text-center">
-						<figure>
-							<img class="intro-box-image" src="https://www.hilmican.com/img/pp.jpg" alt="hilmican">
-						</figure>
-					</div>
-				</div>
-			</div>	
-		</div>
-	</section>
-</main>
+    <main>
+        <div class="container">
+            <div class="hero__wrapper">
+                <h1 class="title">404. That's an error.</h1>
+                <div class="position">The requested URL was not found on this server. That’s all we know</div>
+                <div class="text-wrapper">
+                    <p>Contact me via my <a href="mailto:info@hilmican.com">info@hilmican.com</a> e-mail address.</p>
+                </div>
+            </div>
+        </div>
+    </main>
 <?php include 'includes/_footer.php'; ?>
