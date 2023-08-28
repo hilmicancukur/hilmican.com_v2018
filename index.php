@@ -3,7 +3,7 @@
         <div class="container">
             <div class="hero__wrapper">
                 <h1 class="title">Hello, I'm Hilmi Can 👋</h1>
-                <div class="position">Software Developer | Frontend Developer</div>
+                <div class="position">Software Engineer | Frontend Developer</div>
                 <div class="text-wrapper">
                     <p>I am a front-end developer who wants to make dominate world with web applications. The my main goal is making website with latest standards near of the ugliest website.</p>
                     <p>I am someone who applies a solution-oriented approach in my life and work. My biggest hobby is learning new information. I am excited to learn new topics related to my interests and work.</p>
